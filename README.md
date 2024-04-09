@@ -13,3 +13,7 @@ We present an Video Calling App for one vs one connected over the same network u
 - Run both server (audio/video) on both machines using `python3 server_video.py` and `python3 server_audio.py` in different Terminals.
 - Run the Clients Simultaneously by running `python3 app.py`
 - open Web page and start video call.
+
+## Snips :
+![Alt text](/images/Home_page.jpeg)
+![Alt text](/images/working.jpeg)
